@@ -1,6 +1,6 @@
-This is a personal zsh profile.
+This is a personal profile for zsh using antigen(zsh-users/antigen).
 etc/init.sh			My zsh config
-theme/agnoster.zsh-theme	A modified agnoster(ohmyzsh/theme/agnoster.zsh-theme).
+theme/agnoster.zsh-theme	A modified agnoster(ohmyzsh/ohmyzsh/theme/agnoster.zsh-theme).
 				+ Add conda virtual environment support.
 				+ Change color schemes.
 				+ Simplify prompt.
