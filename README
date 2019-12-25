@@ -4,3 +4,8 @@ theme/agnoster.zsh-theme	A modified agnoster(ohmyzsh/ohmyzsh/theme/agnoster.zsh-
 				+ Add conda virtual environment support.
 				+ Change color schemes.
 				+ Simplify prompt.
+
+To use modified agnoster, add the code below to ~/.condarc for better experience:
+
+changeps1: False
+
