@@ -1,0 +1,6 @@
+This is a personal zsh profile.
+etc/init.sh			My zsh config
+theme/agnoster.zsh-theme	A modified agnoster(ohmyzsh/theme/agnoster.zsh-theme).
+				+ Add conda virtual environment support.
+				+ Change color schemes.
+				+ Simplify prompt.
