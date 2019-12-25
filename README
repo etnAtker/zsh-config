@@ -1,9 +1,14 @@
 This is a personal profile for zsh using antigen(zsh-users/antigen).
+
+
+Files:
+
 etc/init.sh			My zsh config
 theme/agnoster.zsh-theme	A modified agnoster(ohmyzsh/ohmyzsh/theme/agnoster.zsh-theme).
 				+ Add conda virtual environment support.
 				+ Change color schemes.
 				+ Simplify prompt.
+
 
 To use modified agnoster, add the code below to ~/.condarc for better experience:
 
